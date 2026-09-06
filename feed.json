@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Punkt Zwrotny",
+    "description": "",
+    "home_page_url": "https://octsr.pl",
+    "feed_url": "https://octsr.pl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Wojtek"
+    },
+    "items": [
+    ]
+}

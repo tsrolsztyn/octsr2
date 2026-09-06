@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://octsr.pl/sitemap.xml
