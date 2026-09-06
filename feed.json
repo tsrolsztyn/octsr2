@@ -5,10 +5,38 @@
     "home_page_url": "https://tsrolsztyn.github.io/octsr2",
     "feed_url": "https://tsrolsztyn.github.io/octsr2/feed.json",
     "user_comment": "",
-    "icon": "https://tsrolsztyn.github.io/octsr2/media/website/Projekt-bez-nazwy.png",
+    "icon": "https://tsrolsztyn.github.io/octsr2/media/website/Projekt-bez-nazwy-logo-kolory.png",
     "author": {
         "name": "Wojtek"
     },
     "items": [
+        {
+            "id": "https://tsrolsztyn.github.io/octsr2/testowy-2.html",
+            "url": "https://tsrolsztyn.github.io/octsr2/testowy-2.html",
+            "title": "Testowy 2",
+            "summary": "<p>To jest testowa strona dwa jako post</p>\n<p class=\"msg msg--success\">hvjk,vg,vghl</p>\n<p>😫🤪</p>\n",
+            "content_html": "<p>To jest testowa strona dwa jako post</p>\n<p class=\"msg msg--success\">hvjk,vg,vghl</p>\n<p>😫🤪</p>\n\n<p>gsDGsdGasgasdlkjasojfl;faS</p>\n<p>FASGFASDG</p>\n<p>ASDGASD</p>\n<p>GSDGSADGASDGADSD</p>\n<p> </p>\n<div id=\"twoj-psycholog-widget\" data-twoj-psycholog-therapistid=\"7910\" data-twoj-psycholog-variant=\"simple\"></div>",
+            "author": {
+                "name": "Wojtek"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-06T17:06:36+02:00",
+            "date_modified": "2026-09-06T17:06:36+02:00"
+        },
+        {
+            "id": "https://tsrolsztyn.github.io/octsr2/testowy-wpis.html",
+            "url": "https://tsrolsztyn.github.io/octsr2/testowy-wpis.html",
+            "title": "Testowy wpis",
+            "summary": "To jest testwowy wpis strony jako posta.&nbsp; Tutaj moga być rpzeróżne tresco... aD ASD HAKFDFD AJscAs ASFAfa FSdfawdgasdg",
+            "content_html": "\n  <p>\n    To jest testwowy wpis strony jako posta.&nbsp;\n  </p>\n\n  <p>\n    Tutaj moga być rpzeróżne tresco... aD ASD HAKFDFD AJscAs\n  </p>\n\n  <p>\n    ASFAfa FSdfawdgasdg\n  </p>\n\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Wojtek"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-06T17:05:07+02:00",
+            "date_modified": "2026-09-06T17:05:07+02:00"
+        }
     ]
 }

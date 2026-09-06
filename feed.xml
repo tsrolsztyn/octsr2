@@ -3,10 +3,77 @@
     <title>Punkt Zwrotny</title>
     <link href="https://tsrolsztyn.github.io/octsr2/feed.xml" rel="self" />
     <link href="https://tsrolsztyn.github.io/octsr2" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-09-06T17:06:36+02:00</updated>
     <author>
         <name>Wojtek</name>
     </author>
     <id>https://tsrolsztyn.github.io/octsr2</id>
 
+    <entry>
+        <title>Testowy 2</title>
+        <author>
+            <name>Wojtek</name>
+        </author>
+        <link href="https://tsrolsztyn.github.io/octsr2/testowy-2.html"/>
+        <id>https://tsrolsztyn.github.io/octsr2/testowy-2.html</id>
+
+        <updated>2026-09-06T17:06:36+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    <p>To jest testowa strona dwa jako post</p>
+<p class="msg msg--success">hvjk,vg,vghl</p>
+<p>😫🤪</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To jest testowa strona dwa jako post</p>
+<p class="msg msg--success">hvjk,vg,vghl</p>
+<p>😫🤪</p>
+
+<p>gsDGsdGasgasdlkjasojfl;faS</p>
+<p>FASGFASDG</p>
+<p>ASDGASD</p>
+<p>GSDGSADGASDGADSD</p>
+<p> </p>
+<div id="twoj-psycholog-widget" data-twoj-psycholog-therapistid="7910" data-twoj-psycholog-variant="simple"></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Testowy wpis</title>
+        <author>
+            <name>Wojtek</name>
+        </author>
+        <link href="https://tsrolsztyn.github.io/octsr2/testowy-wpis.html"/>
+        <id>https://tsrolsztyn.github.io/octsr2/testowy-wpis.html</id>
+
+        <updated>2026-09-06T17:05:07+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    To jest testwowy wpis strony jako posta.&nbsp; Tutaj moga być rpzeróżne tresco... aD ASD HAKFDFD AJscAs ASFAfa FSdfawdgasdg
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    To jest testwowy wpis strony jako posta.&nbsp;
+  </p>
+
+  <p>
+    Tutaj moga być rpzeróżne tresco... aD ASD HAKFDFD AJscAs
+  </p>
+
+  <p>
+    ASFAfa FSdfawdgasdg
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
