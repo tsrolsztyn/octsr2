@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://octsr.pl/sitemap.xml
+Sitemap: https://tsrolsztyn.github.io/octsr2/sitemap.xml
