@@ -14,15 +14,15 @@
             "id": "https://tsrolsztyn.github.io/octsr2/wpisy/testowy-2/",
             "url": "https://tsrolsztyn.github.io/octsr2/wpisy/testowy-2/",
             "title": "Testowy 2",
-            "summary": "<p>To jest testowa strona dwa jako post</p>\n<p class=\"msg msg--success\">hvjk,vg,vghl</p>\n<p>😫🤪</p>\n",
-            "content_html": "<p>To jest testowa strona dwa jako post</p>\n<p class=\"msg msg--success\">hvjk,vg,vghl</p>\n<p>😫🤪</p>\n\n<p>gsDGsdGasgasdlkjasojfl;faS</p>\n<p>FASGFASDG</p>\n<p>ASDGASD</p>\n<p>GSDGSADGASDGADSD</p>\n<p> </p>\n<div id=\"twoj-psycholog-widget\" data-twoj-psycholog-therapistid=\"7910\" data-twoj-psycholog-variant=\"simple\"></div>",
+            "summary": "To jest testowa strona dwa jako post hvjk,vg,vghl 😫🤪 gsDGsdGasgasdlkjasojfl;faS FASGFASDG ASDGASD GSDGSADGASDGADSD",
+            "content_html": "<p>To jest testowa strona dwa jako post</p>\n<p>hvjk,vg,vghl 😫🤪</p>\n<p>gsDGsdGasgasdlkjasojfl;faS</p>\n<p>FASGFASDG</p>\n<p>ASDGASD</p>\n<p>GSDGSADGASDGADSD</p>\n<p> </p>\n<div id=\"twoj-psycholog-widget\" data-twoj-psycholog-therapistid=\"7910\" data-twoj-psycholog-variant=\"simple\"></div>",
             "author": {
                 "name": "Wojtek"
             },
             "tags": [
             ],
             "date_published": "2026-09-06T17:06:36+02:00",
-            "date_modified": "2026-09-06T17:06:36+02:00"
+            "date_modified": "2026-09-10T19:07:16+02:00"
         },
         {
             "id": "https://tsrolsztyn.github.io/octsr2/wpisy/testowy-wpis/",

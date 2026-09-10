@@ -3,7 +3,7 @@
     <title>Punkt Zwrotny</title>
     <link href="https://tsrolsztyn.github.io/octsr2/feed.xml" rel="self" />
     <link href="https://tsrolsztyn.github.io/octsr2" />
-    <updated>2026-09-06T17:06:36+02:00</updated>
+    <updated>2026-09-10T19:07:16+02:00</updated>
     <author>
         <name>Wojtek</name>
     </author>
@@ -20,18 +20,13 @@
         <updated>2026-09-06T17:06:36+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                    <p>To jest testowa strona dwa jako post</p>
-<p class="msg msg--success">hvjk,vg,vghl</p>
-<p>😫🤪</p>
-
+                    To jest testowa strona dwa jako post hvjk,vg,vghl 😫🤪 gsDGsdGasgasdlkjasojfl;faS FASGFASDG ASDGASD GSDGSADGASDGADSD
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>To jest testowa strona dwa jako post</p>
-<p class="msg msg--success">hvjk,vg,vghl</p>
-<p>😫🤪</p>
-
+<p>hvjk,vg,vghl 😫🤪</p>
 <p>gsDGsdGasgasdlkjasojfl;faS</p>
 <p>FASGFASDG</p>
 <p>ASDGASD</p>
